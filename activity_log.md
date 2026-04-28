@@ -1,3 +1,4 @@
 # Activity Log
 
 - [2026-04-28T18:25:31Z] perf: optimize loop for better performance
+- [2026-04-28T22:33:53Z] chore: remove deprecated API calls
